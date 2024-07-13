@@ -29,12 +29,12 @@ This folder contains all the `.mat` variables used in the functions. These varia
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/graininess-assessment.git
+   git clone https://github.com/domerchan/Master-COSI-Graininess-Metric.git
    ```
 
 2. **Navigate to the Repository:**
    ```
-   cd graininess-assessment
+   cd Master-COSI-Graininess-Metric
    ```
 
 3. **Explore the Folders:**
